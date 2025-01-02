@@ -42,7 +42,7 @@ class  Script(object):
 ║┣⪼📃ʙᴏᴛ : [MOVIE LIVE](https://t.me/hilvlmovie)
 ║┣⪼👦Cʀᴇᴀᴛᴏʀ : [KISHAN YADAV 🌱](https://t.me/OS_GOOD_LOVE)
 ║┣⪼🤖Uᴘᴅᴀᴛᴇ : [LOVE FROM 🧑‍💻](https://t.me/hilvlmovie)
-║┣⪼📡Hᴏsᴛᴇᴅ ᴏɴ : Sᴜᴘᴇʀ Fᴀsᴛ
+║┣⪼📡Hᴏsᴛᴇᴅ ᴏɴ : APPLEOS🍎 LIVE
 ║┣⪼🗣️Lᴀɴɢᴜᴀɢᴇ : Pʏᴛʜᴏɴ3
 ║┣⪼📚Lɪʙʀᴀʀʏ : Pʏʀᴏɢʀᴀᴍ Gᴀᴛʜᴇʀ 2.11.0 
 ║┣⪼🗒️Vᴇʀsɪᴏɴ : 0.18.3
