@@ -21,10 +21,10 @@ START_TIME = time.time()
 # Ask Doubt on telegram @KingVJ01
 
 main_buttons = [[
-    InlineKeyboardButton('❣️ ᴅᴇᴠᴇʟᴏᴘᴇʀ ❣️', url='https://t.me/kingvj01')
+    InlineKeyboardButton('❣️ KISHAN YADAV ❣️', url='https://t.me/OS_GOOD_LOVE')
 ],[
-    InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/vj_bot_disscussion'),
-    InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/vj_botz')
+    InlineKeyboardButton('🔍 MOVIE', url='https://t.me/hilvlmovie'),
+    InlineKeyboardButton('🤖 CREATOR 🧑‍🔧', url='https://t.me/OS_GOOD_LOVE')
 ],[
     InlineKeyboardButton('💝 sᴜʙsᴄʀɪʙᴇ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ', url='https://youtube.com/@Tech_VJ')
 ],[
@@ -55,9 +55,9 @@ async def start(client, message):
 
 @Client.on_message(filters.private & filters.command(['restart']) & filters.user(Config.BOT_OWNER))
 async def restart(client, message):
-    msg = await message.reply_text(text="<i>Trying to restarting.....</i>")
+    msg = await message.reply_text(text="<i>loading Apple live 🍎........................................</i>")
     await asyncio.sleep(5)
-    await msg.edit("<i>Server restarted successfully ✅</i>")
+    await msg.edit("<i>SUPERFAST SERVER appleOS🍎</i>")
     system("git pull -f && pip3 install --no-cache-dir -r requirements.txt")
     execle(sys.executable, sys.executable, "main.py", environ)
 
